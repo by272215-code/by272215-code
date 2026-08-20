@@ -22,6 +22,7 @@ B.Tech CSE (AI & ML) Student | Python Developer | AI & Machine Learning Enthusia
 - IIT Summer Internship
 - Software Engineer
 - AI Engineer
+- IOT Projects 
 
 
 
