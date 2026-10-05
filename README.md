@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bittu Kumar</h1>
 
 <h3 align="center">
-B.Tech CSE (AI & ML) Student | Python Developer | AI & Machine Learning Enthusiast
+B.Tech CSE (AI & ML) Student | Python Developer |IOT Specialist |AI & Machine Learning Enthusiast
 </h3>
 
 
