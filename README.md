@@ -7,109 +7,66 @@ B.Tech CSE (AI & ML) Student | Python Developer | AI & Machine Learning Enthusia
 
 ## 🚀 About Me
 
-🎓 B.Tech in Computer Science & Engineering (AI & ML)
+I'm a Computer Science student focused on building practical software
+and AI/ML projects using Python.
 
-💻 Passionate about Artificial Intelligence, Machine Learning and Software Development.
+I'm currently improving my skills in machine learning, deep learning,
+computer vision, data structures, and open-source development.
 
-🌱 Currently learning
+## 🚀 What I'm Learning
+
+- Python Development
 - Data Structures & Algorithms
 - Machine Learning
 - Deep Learning
+- Computer Vision
 - Generative AI
-- Python Development
-
-🎯 Goal
-- IIT Summer Internship
-- Software Engineer
-- AI Engineer
-- IOT Projects 
-
-
+- Open Source Development
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 - Python
 - C
-  
-
-### Web Development
-- HTML
-- CSS
-
-### Database
 - SQL
+
+### AI / ML
+- Machine Learning
+- Deep Learning
+- OpenCV
+- Generative AI
 
 ### Tools
 - Git
 - GitHub
 - VS Code
 
-### AI/ML
-- Machine Learning
-- Deep Learning (Learning)
-- OpenCV (Learning)
+## 📌 Projects
 
+- Saarthi AI Chatbot
+- AI Face Attendance System
+- Smart AI Dustbin
+- Smart Fisheries Management System
+- AgriScan AI Pro
+- Stock Portfolio Analyzer
+- Student Result Analyzer
 
+## 🌱 Current Focus
 
-## 🚀 Featured Projects
+I'm currently focusing on:
 
-🤖 Saarthi AI Chatbot
+- Building practical AI/ML projects
+- Improving software development skills
+- Contributing to open-source projects
+- Learning how large open-source projects are developed
+- Preparing for Google Summer of Code
 
-🎓 AI Face Attendance System
+## 🎯 Long-Term Goal
 
-🏫 School Management System
+To become a strong AI/ML engineer and contribute to meaningful
+open-source projects.
 
-📊 Student Result Analyzer with Interactive Graphs
+## 📫 Connect With Me
 
-📈 Stock Portfolio Analyzer
-
-🗑️ Smart AI Dustbin
-
-📶 WiFi Network Analyzer
-
-
-
-## 📈 Currently Working On
-
-✔ Saarthi AI Chatbot
-
-✔ AI Face Attendance System
-
-✔ Stock Portfolio Analyzer
-
-✔ Smart AI Dustbin
-
-✔ Student Result Analyzer
-
-✔ Data Structures & Algorithms
-
-✔ Advanced Machine Learning
-
-
-
-## 📫 Connect with Me
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/bittu-kumar-yadav-2250072a4
-
-🌐 GitHub
-
-https://github.com/by272215-code
-
-
-
-⭐ Fun Fact
-
-"I believe learning by building real projects is the fastest way to grow."
-
-⭐ Thanks for visiting my profile!
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=by272215-code&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=by272215-code&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=by272215-code)
+- GitHub: https://github.com/by272215-code
+- LinkedIn: https://www.linkedin.com/in/bittu-kumar-yadav-2250072a4
