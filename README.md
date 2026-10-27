@@ -33,7 +33,7 @@ computer vision, data structures, and open-source development.
 
 🛠️ Technical Skills
 
-**Programming Languages**
+** # Programming Languages**
 
 Python (Intermediate)
 
@@ -41,7 +41,7 @@ C
 
 Embedded C/C++
 
-**AI, Data & Visualization**
+** # AI, Data & Visualization**
 
 Fraud Detection Concepts
 
@@ -53,7 +53,7 @@ Plotly and PyVis
 
 AI/ML Project Development
 
-**Web Development**
+** # Web Development**
 
 HTML, CSS, JavaScript
 
@@ -61,7 +61,7 @@ Streamlit
 
 Flask
 
-**Databases & Tools**
+** # Databases & Tools**
 
 SQL
 
@@ -71,7 +71,7 @@ Git and GitHub
 
 VS Code
 
-**Hardware & IoT**
+** # Hardware & IoT**
 
 Arduino
 
@@ -84,7 +84,7 @@ Sensor Interfacing
 Wokwi and Arduino IDE
 
 
-** Featured Projects**
+** # Featured Projects**
 
 **1. FraudShield AI**
 
@@ -113,7 +113,7 @@ Technologies: ESP32, Sensors, IoT, Wokwi
 
 A responsive portfolio-builder website concept designed to help students and professionals showcase their work using modern templates.
 
-**  Research**
+** # Research**
 
 AgriScan AI: AI-Based Crop Quality Grading and Post-Harvest Decision Support
 
@@ -121,7 +121,7 @@ Exploring a multi-sensor AI framework for assessing crop quality, moisture, fres
 
 **Status: Manuscript written; not yet published . **
 
-** Certifications**
+** # Certifications**
 
 HackerRank: Python (Basic)
 
@@ -131,7 +131,7 @@ AIML for Geodata Analytics: Indian Institute of Remote Sensing (IIRS), ISRO
 
 Introduction to AI
 
-##  Current Focus
+## # Current Focus
 
 I'm currently focusing on:
 
